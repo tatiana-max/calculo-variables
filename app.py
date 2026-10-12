@@ -49,7 +49,7 @@ st.markdown("---")
 # --- LISTA DE TODOS LOS COLABORADORES ---
 colaboradores_nombres = [
     "David Cárdenas - Gerente de Ventas",
-    "Felipe - Ejecutivo / Operaciones",
+    "Felipe - Jefe de Inteligencia de Ventas",
     "Tatiana Palacios - Asistente de Ventas",
     "Eduardo Flores - Jefe Comercial",
     "Mario Muñoz - Jefe Comercial",
